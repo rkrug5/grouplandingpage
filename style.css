@@ -8,8 +8,8 @@ h3 {
 
 :root {
     --container-bg-color: #333;
-    --left-bg-color:  rgba(56, 56, 56, 0.7);
-    --left-button-hover-color: rgba(172, 172, 172, 0.3);
+    --left-bg-color:  rgba(255, 34, 34, 0.7);
+    --left-button-hover-color: rgba(255, 41, 41, 0.3);
     --right-bg-color:  rgba(56, 56, 56, 0.7);
     --right-button-hover-color: rgba(172, 172, 172, 0.3);
     --hover-width: 75%;
@@ -98,7 +98,7 @@ h4 {
 
 .split.left {
     left: 0;
-    background: url('flight_space.jpg') center center no-repeat;
+    background: url('rat1.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -112,7 +112,7 @@ h4 {
 
 .split.right {
     right: 0;
-    background: url('red_planet.jpg') center center no-repeat;
+    background: url('rat2.jpg') center center no-repeat;
     background-size: cover;
 }
 
